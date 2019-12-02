@@ -1,0 +1,21 @@
+-----
+FONTLOG for the Eeyek font
+
+This file provides detailed information on the Eeyek Font Software. This information should be distributed along with the Eeyek font and any derivative works.
+
+Basic Font Information
+
+Eeyek is a Unicode font for the Meetei Mayek script.
+
+ChangeLog
+
+2 Dec 2019 (original authors) Eeyek version 1.000
+- First OFL release based on Eeyek Unicode font
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: David Morse
+D: Designer
+-----

@@ -1,25 +1,15 @@
-	Install Eeyek (Unicode) Font
+# Eeyek
 
-   1.  Go to the Windows\fonts\ folder on C: drive (or wherever Windows XP is installed)
-      All the fonts installed in your machine are displayed here.
+Eeyek is a font for the Meetei Mayek (Meitei Mayek) script.
 
-   2. Drag and drop the file Eeyek.ttf into this folder Windows\fonts\
+Eeyek is Copyright (c) 2000-2019 Pravabati Chingangbam and
+Tabish (tabishq@gmail.com) and is released under under the
+SIL Open Font License (http://scripts.sil.org/OFL).
 
-After this step the font "Eeyek" would have been added successfully to your system´s Font Folder and you can use this font in any of your windows applications. 
+For details - including any Reserved Font Names - see OFL.txt.
 
+For practical information about using, modifying and redistributing
+this font see OFL-FAQ.txt.
 
-	Installing Eeyek (Unicode) Font in Linux
-
-Installing Meetei Mayek Font in Ubuntu is the easiest. Open the folder Eeyek_Unicode, double-click on the font file eeyek.ttf. It will open, showing the font characters, and there will be an install button on lower right corner. Click on it and the font will install.
-
-Installing Meetei Mayek Font in other distributions of Linux is also as easy.
-
-Basically, one has to copy the file Eeyek.ttf to the directory where
-TrueType fonts are, /usr/share/fonts/truetype
-or any other suitable folder in /usr/share/fonts/
-Basically issue this command (as root):
-
-# cp Eeyek.ttf /usr/share/fonts/truetype/
-
-That's all. Restart your browser, and you should be able to see
-Meetei Mayek webpages.
+For more details about this project, including changelog and
+acknowledgements see FONTLOG.txt.
