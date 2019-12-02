@@ -16,6 +16,10 @@ Acknowledgements
 
 If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
 
-N: David Morse
+N: Pravabati Chingangbam
 D: Designer
------
+
+N: Tabish
+E: tabishq@gmail.com
+W: http://tabish.freeshell.org/eeyek/
+D: Designer
