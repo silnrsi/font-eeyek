@@ -13,14 +13,14 @@
       <point x="85" y="-15" type="line"/>
       <point x="85" y="163" type="line"/>
       <point x="263" y="163" type="line"/>
-      <point x="263" y="-15" type="line"/>
-      <point x="263" y="-113"/>
-      <point x="193" y="-233"/>
-      <point x="118" y="-266" type="qcurve"/>
+      <point x="263" y="-15" type="line" smooth="yes"/>
+      <point x="263" y="-146"/>
+      <point x="218" y="-222"/>
+      <point x="118" y="-266" type="curve"/>
       <point x="75" y="-199" type="line"/>
-      <point x="124" y="-178"/>
-      <point x="171" y="-94"/>
-      <point x="173" y="-15" type="qcurve"/>
+      <point x="140" y="-171"/>
+      <point x="170" y="-120"/>
+      <point x="173" y="-15" type="curve"/>
     </contour>
   </outline>
 </glyph>
