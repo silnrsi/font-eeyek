@@ -8,23 +8,23 @@
       <point x="294" y="-149"/>
       <point x="115" y="288"/>
       <point x="115" y="522" type="qcurve"/>
-      <point x="115" y="625" name="inserted"/>
+      <point x="115" y="625"/>
       <point x="148" y="822"/>
       <point x="182" y="917" type="qcurve"/>
-      <point x="221" y="1026" name="inserted"/>
+      <point x="221" y="1026"/>
       <point x="342" y="1244"/>
       <point x="423" y="1353" type="qcurve"/>
       <point x="535" y="1353" type="line"/>
-      <point x="482" y="1263" name="inserted"/>
+      <point x="482" y="1263"/>
       <point x="413" y="1134"/>
       <point x="396" y="1096" type="qcurve"/>
-      <point x="370" y="1036" name="inserted"/>
+      <point x="370" y="1036"/>
       <point x="328" y="912"/>
       <point x="313" y="847" type="qcurve"/>
-      <point x="294" y="766" name="inserted"/>
+      <point x="294" y="766"/>
       <point x="276" y="602"/>
       <point x="276" y="521" type="qcurve"/>
-      <point x="276" y="312" name="inserted"/>
+      <point x="276" y="312"/>
       <point x="406" y="-104"/>
       <point x="535" y="-312" type="qcurve"/>
     </contour>

@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Eeyek</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/12/03 13:42:40</string>
+  <string>2019/12/03 14:05:30</string>
   <key>openTypeHheaAscender</key>
   <integer>1491</integer>
   <key>openTypeHheaDescender</key>
@@ -143,6 +143,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>Eeyek-Regular</string>
   <key>postscriptFullName</key>
   <string>Eeyek Regular</string>
+  <key>postscriptStemSnapH</key>
+  <array/>
+  <key>postscriptStemSnapV</key>
+  <array/>
   <key>postscriptUnderlinePosition</key>
   <integer>-164</integer>
   <key>postscriptUnderlineThickness</key>
