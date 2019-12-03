@@ -4,10 +4,10 @@
   <unicode hex="ABED"/>
   <outline>
     <contour>
-      <point x="-2704" y="-76" type="line"/>
-      <point x="-2704" y="-192" type="line"/>
-      <point x="-304" y="-192" type="line"/>
-      <point x="-304" y="-76" type="line"/>
+      <point x="-1450" y="-76" type="line"/>
+      <point x="-1450" y="-192" type="line"/>
+      <point x="1494" y="-192" type="line"/>
+      <point x="1494" y="-76" type="line"/>
     </contour>
   </outline>
 </glyph>
