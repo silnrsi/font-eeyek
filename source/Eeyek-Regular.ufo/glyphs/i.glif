@@ -2,7 +2,6 @@
 <glyph name="i" format="2">
   <advance width="1588"/>
   <unicode hex="ABCF"/>
-  <unicode hex="ABE2"/>
   <outline>
     <contour>
       <point x="112" y="1324" type="line"/>
