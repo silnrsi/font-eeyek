@@ -62,18 +62,18 @@
     <string>plus</string>
     <string>danda</string>
     <string>hyphen</string>
-    <string>lum iyek</string>
+    <string>lumiyek-mm</string>
     <string>slash</string>
-    <string>zero</string>
-    <string>one</string>
-    <string>two</string>
-    <string>three</string>
-    <string>four</string>
-    <string>five</string>
-    <string>six</string>
-    <string>seven</string>
-    <string>eight</string>
-    <string>nine</string>
+    <string>zero-mm</string>
+    <string>one-mm</string>
+    <string>two-mm</string>
+    <string>three-mm</string>
+    <string>four-mm</string>
+    <string>five-mm</string>
+    <string>six-mm</string>
+    <string>seven-mm</string>
+    <string>eight-mm</string>
+    <string>nine-mm</string>
     <string>colon</string>
     <string>semicolon</string>
     <string>less</string>
@@ -81,66 +81,66 @@
     <string>greater</string>
     <string>question</string>
     <string>at</string>
-    <string>anap</string>
-    <string>bham</string>
-    <string>kok lonsum</string>
-    <string>dhou</string>
+    <string>anap-mm</string>
+    <string>bham-mm</string>
+    <string>koklonsum-mm</string>
+    <string>dhou-mm</string>
     <string>E</string>
-    <string>pa lonsum</string>
-    <string>ghou</string>
+    <string>palonsum-mm</string>
+    <string>ghou-mm</string>
     <string>H</string>
-    <string>i</string>
-    <string>jham</string>
-    <string>khou</string>
-    <string>lai lonsum</string>
-    <string>mit lonsum</string>
-    <string>na lonsum</string>
-    <string>sounap</string>
-    <string>pham</string>
-    <string>ngou lonsum</string>
+    <string>i-mm</string>
+    <string>jham-mm</string>
+    <string>khou-mm</string>
+    <string>lailonsum-mm</string>
+    <string>mitlonsum-mm</string>
+    <string>nalonsum-mm</string>
+    <string>sounap-mm</string>
+    <string>pham-mm</string>
+    <string>ngoulonsum-mm</string>
     <string>R</string>
     <string>S</string>
-    <string>thou</string>
-    <string>un</string>
+    <string>thou-mm</string>
+    <string>un-mm</string>
     <string>V</string>
     <string>W</string>
     <string>X</string>
-    <string>cheinap</string>
+    <string>cheinap-mm</string>
     <string>Z</string>
     <string>bracketleft</string>
     <string>backslash</string>
     <string>bracketright</string>
     <string>asciicircum</string>
-    <string>apun iyek</string>
+    <string>apuniyek-mm</string>
     <string>grave</string>
-    <string>atiya</string>
-    <string>ba</string>
-    <string>chil</string>
-    <string>dil</string>
-    <string>yenap</string>
+    <string>atiya-mm</string>
+    <string>ba-mm</string>
+    <string>chil-mm</string>
+    <string>dil-mm</string>
+    <string>yenap-mm</string>
     <string>f</string>
-    <string>gok</string>
-    <string>huk</string>
-    <string>inap</string>
-    <string>jil</string>
-    <string>kok</string>
-    <string>lai</string>
-    <string>mit</string>
-    <string>na</string>
-    <string>onap</string>
-    <string>pa</string>
-    <string>ngou</string>
-    <string>rai</string>
-    <string>sam</string>
-    <string>til</string>
-    <string>unap</string>
+    <string>gok-mm</string>
+    <string>huk-mm</string>
+    <string>inap-mm</string>
+    <string>jil-mm</string>
+    <string>kok-mm</string>
+    <string>lai-mm</string>
+    <string>mit-mm</string>
+    <string>na-mm</string>
+    <string>onap-mm</string>
+    <string>pa-mm</string>
+    <string>ngou-mm</string>
+    <string>rai-mm</string>
+    <string>sam-mm</string>
+    <string>til-mm</string>
+    <string>unap-mm</string>
     <string>v</string>
-    <string>wai</string>
-    <string>til lonsum</string>
-    <string>yang</string>
-    <string>nung</string>
+    <string>wai-mm</string>
+    <string>tillonsum-mm</string>
+    <string>yang-mm</string>
+    <string>nung-mm</string>
     <string>braceleft</string>
-    <string>cheikhei</string>
+    <string>cheikhei-mm</string>
     <string>braceright</string>
     <string>asciitilde</string>
     <string>Adieresis</string>
@@ -301,33 +301,33 @@
     <string>uni03A9</string>
     <key>apple</key>
     <string>uniF8FF</string>
-    <key>apun iyek</key>
+    <key>apuniyek-mm</key>
     <string>apuniyek</string>
     <key>danda</key>
     <string>uni0964</string>
-    <key>kok lonsum</key>
+    <key>koklonsum-mm</key>
     <string>koklonsum</string>
-    <key>lai lonsum</key>
+    <key>lailonsum-mm</key>
     <string>lailonsum</string>
-    <key>lum iyek</key>
+    <key>lumiyek-mm</key>
     <string>lumiyek</string>
-    <key>mit lonsum</key>
+    <key>mitlonsum-mm</key>
     <string>mitlonsum</string>
     <key>mu</key>
     <string>uni03BC</string>
-    <key>na lonsum</key>
+    <key>nalonsum-mm</key>
     <string>nalonsum</string>
-    <key>ngou lonsum</key>
+    <key>ngoulonsum-mm</key>
     <string>ngoulonsum</string>
     <key>nonbreakingspace</key>
     <string>uni00A0</string>
     <key>onesuperior</key>
     <string>uni00B9</string>
-    <key>pa lonsum</key>
+    <key>palonsum-mm</key>
     <string>palonsum</string>
     <key>threesuperior</key>
     <string>uni00B3</string>
-    <key>til lonsum</key>
+    <key>tillonsum-mm</key>
     <string>tillonsum</string>
     <key>twosuperior</key>
     <string>uni00B2</string>

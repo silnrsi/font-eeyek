@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mitlonsum-mm" format="2">
+  <advance width="1516"/>
+  <unicode hex="ABDD"/>
+  <outline>
+    <contour>
+      <point x="164" y="1156" type="line"/>
+      <point x="252" y="1156" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="429" y="1" type="line"/>
+      <point x="429" y="446" type="line"/>
+      <point x="814" y="446" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="995" y="2" type="line"/>
+      <point x="995" y="446" type="line"/>
+      <point x="1210" y="446" type="line"/>
+      <point x="1210" y="623" type="line"/>
+      <point x="991" y="622" type="line"/>
+      <point x="991" y="1156" type="line"/>
+      <point x="1360" y="1156" type="line"/>
+      <point x="1361" y="1324" type="line"/>
+      <point x="164" y="1324" type="line"/>
+    </contour>
+    <contour>
+      <point x="814" y="1156" type="line"/>
+      <point x="814" y="622" type="line"/>
+      <point x="429" y="622" type="line"/>
+      <point x="429" y="1156" type="line"/>
+    </contour>
+  </outline>
+</glyph>

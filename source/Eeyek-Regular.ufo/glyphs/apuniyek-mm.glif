@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apuniyek-mm" format="2">
+  <advance width="44"/>
+  <unicode hex="ABED"/>
+  <outline>
+    <contour>
+      <point x="-1450" y="-76" type="line"/>
+      <point x="-1450" y="-192" type="line"/>
+      <point x="1494" y="-192" type="line"/>
+      <point x="1494" y="-76" type="line"/>
+    </contour>
+  </outline>
+</glyph>
