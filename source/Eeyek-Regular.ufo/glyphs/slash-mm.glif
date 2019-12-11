@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash-mm" format="2">
   <advance width="760"/>
-  <unicode hex="002F"/>
   <outline>
     <contour>
       <point x="37" y="76" type="line"/>

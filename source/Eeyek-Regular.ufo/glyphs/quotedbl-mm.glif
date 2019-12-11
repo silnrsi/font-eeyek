@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl-mm" format="2">
   <advance width="750"/>
-  <unicode hex="0022"/>
   <outline>
     <contour>
       <point x="150" y="993" type="line"/>

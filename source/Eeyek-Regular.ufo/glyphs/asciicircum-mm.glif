@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum-mm" format="2">
   <advance width="960"/>
-  <unicode hex="005E"/>
   <outline>
     <contour>
       <point x="271" y="734" type="line"/>

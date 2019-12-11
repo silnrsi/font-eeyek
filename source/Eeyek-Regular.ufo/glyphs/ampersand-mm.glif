@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ampersand-mm" format="2">
   <advance width="1280"/>
-  <unicode hex="0026"/>
   <outline>
     <contour>
       <point x="857" y="258" type="curve"/>

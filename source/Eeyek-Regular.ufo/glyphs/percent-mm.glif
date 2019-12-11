@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="percent-mm" format="2">
   <advance width="1520"/>
-  <unicode hex="0025"/>
   <outline>
     <contour>
       <point x="100" y="1114" type="curve" smooth="yes"/>

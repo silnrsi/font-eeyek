@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon-mm" format="2">
   <advance width="350"/>
-  <unicode hex="003B"/>
   <outline>
     <contour>
       <point x="85" y="921" type="line"/>

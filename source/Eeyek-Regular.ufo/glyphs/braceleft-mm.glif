@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="braceleft-mm" format="2">
   <advance width="750"/>
-  <unicode hex="007B"/>
   <outline>
     <contour>
       <point x="116" y="602" type="line"/>
