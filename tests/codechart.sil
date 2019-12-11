@@ -1,0 +1,13 @@
+\begin[class=fontproof]{document}
+\bidi-off
+\setTestFont[]
+
+\section{Codechart}
+
+\subsection{Meetei Mayek}
+\unicharchart[type=range,start=ABC0,end=ABFF]
+
+\subsection{Meetei Mayek Extensions}
+\unicharchart[type=range,start=AAE0,end=AAFF]
+
+\end{document}
