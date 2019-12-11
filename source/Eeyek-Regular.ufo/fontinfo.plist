@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>1491</integer>
+  <integer>1815</integer>
   <key>capHeight</key>
-  <integer>750</integer>
+  <integer>1324</integer>
   <key>copyright</key>
   <string>Original Meetei Mayek copyright (c) 1999-2019 Pravabati Chingangbam and Tabish (tabishq@gmail.com)
 with Reserved Font Name "Eeyek".
 Revisions and Latin glyphs copyright (c) 1997-2019 SIL International.
 </string>
   <key>descender</key>
-  <integer>-431</integer>
+  <integer>-430</integer>
   <key>familyName</key>
   <string>Eeyek</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/12/10 18:53:19</string>
+  <string>2019/12/11 15:18:31</string>
   <key>openTypeHheaAscender</key>
-  <integer>1491</integer>
+  <integer>1815</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-431</integer>
+  <integer>-430</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
@@ -170,9 +170,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeOS2Type</key>
   <array/>
   <key>openTypeOS2TypoAscender</key>
-  <integer>1491</integer>
+  <integer>1815</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-431</integer>
+  <integer>-430</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -202,9 +202,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>1491</integer>
+  <integer>1815</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>431</integer>
+  <integer>430</integer>
   <key>postscriptFontName</key>
   <string>Eeyek-Regular</string>
   <key>postscriptFullName</key>
