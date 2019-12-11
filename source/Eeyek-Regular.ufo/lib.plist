@@ -48,34 +48,34 @@
     <string>.notdef</string>
     <string>.null</string>
     <string>nonmarkingreturn</string>
-    <string>space</string>
-    <string>exclam</string>
-    <string>quotedbl</string>
-    <string>numbersign</string>
-    <string>dollar</string>
-    <string>percent</string>
-    <string>ampersand</string>
-    <string>quotesingle</string>
-    <string>parenleft</string>
-    <string>parenright</string>
-    <string>asterisk</string>
-    <string>plus</string>
-    <string>hyphen</string>
-    <string>slash</string>
-    <string>colon</string>
-    <string>semicolon</string>
-    <string>less</string>
-    <string>equal</string>
-    <string>greater</string>
-    <string>at</string>
-    <string>bracketleft</string>
-    <string>backslash</string>
-    <string>bracketright</string>
-    <string>asciicircum</string>
-    <string>grave</string>
-    <string>braceleft</string>
-    <string>braceright</string>
-    <string>asciitilde</string>
+    <string>space-mm</string>
+    <string>exclam-mm</string>
+    <string>quotedbl-mm</string>
+    <string>numbersign-mm</string>
+    <string>dollar-mm</string>
+    <string>percent-mm</string>
+    <string>ampersand-mm</string>
+    <string>quotesingle-mm</string>
+    <string>parenleft-mm</string>
+    <string>parenright-mm</string>
+    <string>asterisk-mm</string>
+    <string>plus-mm</string>
+    <string>hyphen-mm</string>
+    <string>slash-mm</string>
+    <string>colon-mm</string>
+    <string>semicolon-mm</string>
+    <string>less-mm</string>
+    <string>equal-mm</string>
+    <string>greater-mm</string>
+    <string>at-mm</string>
+    <string>bracketleft-mm</string>
+    <string>backslash-mm</string>
+    <string>bracketright-mm</string>
+    <string>asciicircum-mm</string>
+    <string>grave-mm</string>
+    <string>braceleft-mm</string>
+    <string>braceright-mm</string>
+    <string>asciitilde-mm</string>
     <string>danda</string>
     <string>ahangkhudam-mm</string>
     <string>kok-mm</string>
@@ -139,30 +139,58 @@
   <dict>
     <key>ahangkhudam-mm</key>
     <string>uniAAF1</string>
+    <key>ampersand-mm</key>
+    <string>uni0026</string>
     <key>anap-mm</key>
     <string>uniABE5</string>
     <key>apuniyek-mm</key>
     <string>uniABED</string>
+    <key>asciicircum-mm</key>
+    <string>uni005E</string>
+    <key>asciitilde-mm</key>
+    <string>uni007E</string>
+    <key>asterisk-mm</key>
+    <string>uni002A</string>
+    <key>at-mm</key>
+    <string>uni0040</string>
     <key>atiya-mm</key>
     <string>uniABD1</string>
     <key>ba-mm</key>
     <string>uniABD5</string>
+    <key>backslash-mm</key>
+    <string>uni005C</string>
     <key>bham-mm</key>
     <string>uniABDA</string>
+    <key>braceleft-mm</key>
+    <string>uni007B</string>
+    <key>braceright-mm</key>
+    <string>uni007D</string>
+    <key>bracketleft-mm</key>
+    <string>uni005B</string>
+    <key>bracketright-mm</key>
+    <string>uni005D</string>
     <key>cheikhei-mm</key>
     <string>uniABEB</string>
     <key>cheinap-mm</key>
     <string>uniABE9</string>
     <key>chil-mm</key>
     <string>uniABC6</string>
+    <key>colon-mm</key>
+    <string>uni003A</string>
     <key>danda</key>
     <string>uni0964</string>
     <key>dhou-mm</key>
     <string>uniABD9</string>
     <key>dil-mm</key>
     <string>uniABD7</string>
+    <key>dollar-mm</key>
+    <string>uni0024</string>
     <key>eight-mm</key>
     <string>uniABF8</string>
+    <key>equal-mm</key>
+    <string>uni003D</string>
+    <key>exclam-mm</key>
+    <string>uni0021</string>
     <key>five-mm</key>
     <string>uniABF5</string>
     <key>four-mm</key>
@@ -171,8 +199,14 @@
     <string>uniABD8</string>
     <key>gok-mm</key>
     <string>uniABD2</string>
+    <key>grave-mm</key>
+    <string>uni0060</string>
+    <key>greater-mm</key>
+    <string>uni003E</string>
     <key>huk-mm</key>
     <string>uniABCD</string>
+    <key>hyphen-mm</key>
+    <string>uni002D</string>
     <key>i-mm</key>
     <string>uniABCF</string>
     <key>ilonsum-mm</key>
@@ -193,6 +227,8 @@
     <string>uniABC2</string>
     <key>lailonsum-mm</key>
     <string>uniABDC</string>
+    <key>less-mm</key>
+    <string>uni003C</string>
     <key>lumiyek-mm</key>
     <string>uniABEC</string>
     <key>mit-mm</key>
@@ -209,6 +245,8 @@
     <string>uniABE1</string>
     <key>nine-mm</key>
     <string>uniABF9</string>
+    <key>numbersign-mm</key>
+    <string>uni0023</string>
     <key>nung-mm</key>
     <string>uniABEA</string>
     <key>onap-mm</key>
@@ -219,18 +257,36 @@
     <string>uniABC4</string>
     <key>palonsum-mm</key>
     <string>uniABDE</string>
+    <key>parenleft-mm</key>
+    <string>uni0028</string>
+    <key>parenright-mm</key>
+    <string>uni0029</string>
+    <key>percent-mm</key>
+    <string>uni0025</string>
     <key>pham-mm</key>
     <string>uniABD0</string>
+    <key>plus-mm</key>
+    <string>uni002B</string>
+    <key>quotedbl-mm</key>
+    <string>uni0022</string>
+    <key>quotesingle-mm</key>
+    <string>uni0027</string>
     <key>rai-mm</key>
     <string>uniABD4</string>
     <key>sam-mm</key>
     <string>uniABC1</string>
+    <key>semicolon-mm</key>
+    <string>uni003B</string>
     <key>seven-mm</key>
     <string>uniABF7</string>
     <key>six-mm</key>
     <string>uniABF6</string>
+    <key>slash-mm</key>
+    <string>uni002F</string>
     <key>sounap-mm</key>
     <string>uniABE7</string>
+    <key>space-mm</key>
+    <string>uni0020</string>
     <key>thou-mm</key>
     <string>uniABCA</string>
     <key>three-mm</key>

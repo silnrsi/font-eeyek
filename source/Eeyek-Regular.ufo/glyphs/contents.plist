@@ -8,58 +8,58 @@
   <string>_null.glif</string>
   <key>ahangkhudam-mm</key>
   <string>ahangkhudam-mm.glif</string>
-  <key>ampersand</key>
-  <string>ampersand.glif</string>
+  <key>ampersand-mm</key>
+  <string>ampersand-mm.glif</string>
   <key>anap-mm</key>
   <string>anap-mm.glif</string>
   <key>apuniyek-mm</key>
   <string>apuniyek-mm.glif</string>
-  <key>asciicircum</key>
-  <string>asciicircum.glif</string>
-  <key>asciitilde</key>
-  <string>asciitilde.glif</string>
-  <key>asterisk</key>
-  <string>asterisk.glif</string>
-  <key>at</key>
-  <string>at.glif</string>
+  <key>asciicircum-mm</key>
+  <string>asciicircum-mm.glif</string>
+  <key>asciitilde-mm</key>
+  <string>asciitilde-mm.glif</string>
+  <key>asterisk-mm</key>
+  <string>asterisk-mm.glif</string>
+  <key>at-mm</key>
+  <string>at-mm.glif</string>
   <key>atiya-mm</key>
   <string>atiya-mm.glif</string>
   <key>ba-mm</key>
   <string>ba-mm.glif</string>
-  <key>backslash</key>
-  <string>backslash.glif</string>
+  <key>backslash-mm</key>
+  <string>backslash-mm.glif</string>
   <key>bham-mm</key>
   <string>bham-mm.glif</string>
-  <key>braceleft</key>
-  <string>braceleft.glif</string>
-  <key>braceright</key>
-  <string>braceright.glif</string>
-  <key>bracketleft</key>
-  <string>bracketleft.glif</string>
-  <key>bracketright</key>
-  <string>bracketright.glif</string>
+  <key>braceleft-mm</key>
+  <string>braceleft-mm.glif</string>
+  <key>braceright-mm</key>
+  <string>braceright-mm.glif</string>
+  <key>bracketleft-mm</key>
+  <string>bracketleft-mm.glif</string>
+  <key>bracketright-mm</key>
+  <string>bracketright-mm.glif</string>
   <key>cheikhei-mm</key>
   <string>cheikhei-mm.glif</string>
   <key>cheinap-mm</key>
   <string>cheinap-mm.glif</string>
   <key>chil-mm</key>
   <string>chil-mm.glif</string>
-  <key>colon</key>
-  <string>colon.glif</string>
+  <key>colon-mm</key>
+  <string>colon-mm.glif</string>
   <key>danda</key>
   <string>danda.glif</string>
   <key>dhou-mm</key>
   <string>dhou-mm.glif</string>
   <key>dil-mm</key>
   <string>dil-mm.glif</string>
-  <key>dollar</key>
-  <string>dollar.glif</string>
+  <key>dollar-mm</key>
+  <string>dollar-mm.glif</string>
   <key>eight-mm</key>
   <string>eight-mm.glif</string>
-  <key>equal</key>
-  <string>equal.glif</string>
-  <key>exclam</key>
-  <string>exclam.glif</string>
+  <key>equal-mm</key>
+  <string>equal-mm.glif</string>
+  <key>exclam-mm</key>
+  <string>exclam-mm.glif</string>
   <key>five-mm</key>
   <string>five-mm.glif</string>
   <key>four-mm</key>
@@ -68,14 +68,14 @@
   <string>ghou-mm.glif</string>
   <key>gok-mm</key>
   <string>gok-mm.glif</string>
-  <key>grave</key>
-  <string>grave.glif</string>
-  <key>greater</key>
-  <string>greater.glif</string>
+  <key>grave-mm</key>
+  <string>grave-mm.glif</string>
+  <key>greater-mm</key>
+  <string>greater-mm.glif</string>
   <key>huk-mm</key>
   <string>huk-mm.glif</string>
-  <key>hyphen</key>
-  <string>hyphen.glif</string>
+  <key>hyphen-mm</key>
+  <string>hyphen-mm.glif</string>
   <key>i-mm</key>
   <string>i-mm.glif</string>
   <key>ilonsum-mm</key>
@@ -96,8 +96,8 @@
   <string>lai-mm.glif</string>
   <key>lailonsum-mm</key>
   <string>lailonsum-mm.glif</string>
-  <key>less</key>
-  <string>less.glif</string>
+  <key>less-mm</key>
+  <string>less-mm.glif</string>
   <key>lumiyek-mm</key>
   <string>lumiyek-mm.glif</string>
   <key>mit-mm</key>
@@ -116,8 +116,8 @@
   <string>nine-mm.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
-  <key>numbersign</key>
-  <string>numbersign.glif</string>
+  <key>numbersign-mm</key>
+  <string>numbersign-mm.glif</string>
   <key>nung-mm</key>
   <string>nung-mm.glif</string>
   <key>onap-mm</key>
@@ -128,36 +128,36 @@
   <string>pa-mm.glif</string>
   <key>palonsum-mm</key>
   <string>palonsum-mm.glif</string>
-  <key>parenleft</key>
-  <string>parenleft.glif</string>
-  <key>parenright</key>
-  <string>parenright.glif</string>
-  <key>percent</key>
-  <string>percent.glif</string>
+  <key>parenleft-mm</key>
+  <string>parenleft-mm.glif</string>
+  <key>parenright-mm</key>
+  <string>parenright-mm.glif</string>
+  <key>percent-mm</key>
+  <string>percent-mm.glif</string>
   <key>pham-mm</key>
   <string>pham-mm.glif</string>
-  <key>plus</key>
-  <string>plus.glif</string>
-  <key>quotedbl</key>
-  <string>quotedbl.glif</string>
-  <key>quotesingle</key>
-  <string>quotesingle.glif</string>
+  <key>plus-mm</key>
+  <string>plus-mm.glif</string>
+  <key>quotedbl-mm</key>
+  <string>quotedbl-mm.glif</string>
+  <key>quotesingle-mm</key>
+  <string>quotesingle-mm.glif</string>
   <key>rai-mm</key>
   <string>rai-mm.glif</string>
   <key>sam-mm</key>
   <string>sam-mm.glif</string>
-  <key>semicolon</key>
-  <string>semicolon.glif</string>
+  <key>semicolon-mm</key>
+  <string>semicolon-mm.glif</string>
   <key>seven-mm</key>
   <string>seven-mm.glif</string>
   <key>six-mm</key>
   <string>six-mm.glif</string>
-  <key>slash</key>
-  <string>slash.glif</string>
+  <key>slash-mm</key>
+  <string>slash-mm.glif</string>
   <key>sounap-mm</key>
   <string>sounap-mm.glif</string>
-  <key>space</key>
-  <string>space.glif</string>
+  <key>space-mm</key>
+  <string>space-mm.glif</string>
   <key>thou-mm</key>
   <string>thou-mm.glif</string>
   <key>three-mm</key>
