@@ -250,8 +250,6 @@
   <string>ahangkhudam-mm.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
-  <key>ampersand-mm</key>
-  <string>ampersand-mm.glif</string>
   <key>anap-mm</key>
   <string>anap-mm.glif</string>
   <key>approxequal</key>
@@ -262,20 +260,12 @@
   <string>aring.glif</string>
   <key>asciicircum</key>
   <string>asciicircum.glif</string>
-  <key>asciicircum-mm</key>
-  <string>asciicircum-mm.glif</string>
   <key>asciitilde</key>
   <string>asciitilde.glif</string>
-  <key>asciitilde-mm</key>
-  <string>asciitilde-mm.glif</string>
   <key>asterisk</key>
   <string>asterisk.glif</string>
-  <key>asterisk-mm</key>
-  <string>asterisk-mm.glif</string>
   <key>at</key>
   <string>at.glif</string>
-  <key>at-mm</key>
-  <string>at-mm.glif</string>
   <key>atilde</key>
   <string>atilde.glif</string>
   <key>atiya-mm</key>
@@ -286,28 +276,18 @@
   <string>ba-mm.glif</string>
   <key>backslash</key>
   <string>backslash.glif</string>
-  <key>backslash-mm</key>
-  <string>backslash-mm.glif</string>
   <key>bar</key>
   <string>bar.glif</string>
   <key>bham-mm</key>
   <string>bham-mm.glif</string>
   <key>braceleft</key>
   <string>braceleft.glif</string>
-  <key>braceleft-mm</key>
-  <string>braceleft-mm.glif</string>
   <key>braceright</key>
   <string>braceright.glif</string>
-  <key>braceright-mm</key>
-  <string>braceright-mm.glif</string>
   <key>bracketleft</key>
   <string>bracketleft.glif</string>
-  <key>bracketleft-mm</key>
-  <string>bracketleft-mm.glif</string>
   <key>bracketright</key>
   <string>bracketright.glif</string>
-  <key>bracketright-mm</key>
-  <string>bracketright-mm.glif</string>
   <key>breve</key>
   <string>breve.glif</string>
   <key>brokenbar</key>
@@ -336,8 +316,6 @@
   <string>circumflex.glif</string>
   <key>colon</key>
   <string>colon.glif</string>
-  <key>colon-mm</key>
-  <string>colon-mm.glif</string>
   <key>colontriangularmod</key>
   <string>colontriangularmod.glif</string>
   <key>comma</key>
@@ -366,8 +344,6 @@
   <string>divide.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
-  <key>dollar-mm</key>
-  <string>dollar-mm.glif</string>
   <key>dotaccent</key>
   <string>dotaccent.glif</string>
   <key>dotlessi</key>
@@ -396,14 +372,10 @@
   <string>endash.glif</string>
   <key>equal</key>
   <string>equal.glif</string>
-  <key>equal-mm</key>
-  <string>equal-mm.glif</string>
   <key>eth</key>
   <string>eth.glif</string>
   <key>exclam</key>
   <string>exclam.glif</string>
-  <key>exclam-mm</key>
-  <string>exclam-mm.glif</string>
   <key>exclamdown</key>
   <string>exclamdown.glif</string>
   <key>f</key>
@@ -436,12 +408,8 @@
   <string>gok-mm.glif</string>
   <key>grave</key>
   <string>grave.glif</string>
-  <key>grave-mm</key>
-  <string>grave-mm.glif</string>
   <key>greater</key>
   <string>greater.glif</string>
-  <key>greater-mm</key>
-  <string>greater-mm.glif</string>
   <key>greaterequal</key>
   <string>greaterequal.glif</string>
   <key>guillemotleft</key>
@@ -462,8 +430,6 @@
   <string>hungarumlaut.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
-  <key>hyphen-mm</key>
-  <string>hyphen-mm.glif</string>
   <key>hyphentwo</key>
   <string>hyphentwo.glif</string>
   <key>i</key>
@@ -510,8 +476,6 @@
   <string>lailonsum-mm.glif</string>
   <key>less</key>
   <string>less.glif</string>
-  <key>less-mm</key>
-  <string>less-mm.glif</string>
   <key>lessequal</key>
   <string>lessequal.glif</string>
   <key>logicalnot</key>
@@ -560,8 +524,6 @@
   <string>ntilde.glif</string>
   <key>numbersign</key>
   <string>numbersign.glif</string>
-  <key>numbersign-mm</key>
-  <string>numbersign-mm.glif</string>
   <key>nung-mm</key>
   <string>nung-mm.glif</string>
   <key>o</key>
@@ -606,18 +568,12 @@
   <string>paragraph.glif</string>
   <key>parenleft</key>
   <string>parenleft.glif</string>
-  <key>parenleft-mm</key>
-  <string>parenleft-mm.glif</string>
   <key>parenright</key>
   <string>parenright.glif</string>
-  <key>parenright-mm</key>
-  <string>parenright-mm.glif</string>
   <key>partialdiff</key>
   <string>partialdiff.glif</string>
   <key>percent</key>
   <string>percent.glif</string>
-  <key>percent-mm</key>
-  <string>percent-mm.glif</string>
   <key>period</key>
   <string>period.glif</string>
   <key>periodcentered</key>
@@ -630,8 +586,6 @@
   <string>pi.glif</string>
   <key>plus</key>
   <string>plus.glif</string>
-  <key>plus-mm</key>
-  <string>plus-mm.glif</string>
   <key>plusminus</key>
   <string>plusminus.glif</string>
   <key>product</key>
@@ -644,8 +598,6 @@
   <string>questiondown.glif</string>
   <key>quotedbl</key>
   <string>quotedbl.glif</string>
-  <key>quotedbl-mm</key>
-  <string>quotedbl-mm.glif</string>
   <key>quotedblbase</key>
   <string>quotedblbase.glif</string>
   <key>quotedblleft</key>
@@ -660,8 +612,6 @@
   <string>quotesinglbase.glif</string>
   <key>quotesingle</key>
   <string>quotesingle.glif</string>
-  <key>quotesingle-mm</key>
-  <string>quotesingle-mm.glif</string>
   <key>r</key>
   <string>r.glif</string>
   <key>radical</key>
@@ -684,8 +634,6 @@
   <string>section.glif</string>
   <key>semicolon</key>
   <string>semicolon.glif</string>
-  <key>semicolon-mm</key>
-  <string>semicolon-mm.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
   <key>seven-mm</key>
@@ -696,16 +644,12 @@
   <string>six-mm.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
-  <key>slash-mm</key>
-  <string>slash-mm.glif</string>
   <key>softhyphen</key>
   <string>softhyphen.glif</string>
   <key>sounap-mm</key>
   <string>sounap-mm.glif</string>
   <key>space</key>
   <string>space.glif</string>
-  <key>space-mm</key>
-  <string>space-mm.glif</string>
   <key>sterling</key>
   <string>sterling.glif</string>
   <key>summation</key>

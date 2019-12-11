@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-  <advance width="717"/>
+  <advance width="580"/>
   <unicode hex="0060"/>
-  <anchor x="294" y="1500" name="U"/>
   <outline>
-    <component base="CombGrave" xOffset="851"/>
+    <contour>
+      <point x="440" y="1233" type="line"/>
+      <point x="315" y="1233" type="line"/>
+      <point x="114" y="1475" type="line"/>
+      <point x="323" y="1475" type="line"/>
+    </contour>
   </outline>
 </glyph>
