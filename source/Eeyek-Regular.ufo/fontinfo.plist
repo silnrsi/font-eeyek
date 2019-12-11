@@ -7,15 +7,16 @@
   <key>capHeight</key>
   <integer>750</integer>
   <key>copyright</key>
-  <string>Copyright (c) 1999-2019 Pravabati Chingangbam and Tabish (tabishq@gmail.com)
+  <string>Original Meetei Mayek copyright (c) 1999-2019 Pravabati Chingangbam and Tabish (tabishq@gmail.com)
 with Reserved Font Name "Eeyek".
+Revisions and Latin glyphs copyright (c) 1997-2019 SIL International.
 </string>
   <key>descender</key>
   <integer>-431</integer>
   <key>familyName</key>
   <string>Eeyek</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/12/10 18:06:37</string>
+  <string>2019/12/10 18:53:19</string>
   <key>openTypeHheaAscender</key>
   <integer>1491</integer>
   <key>openTypeHheaDescender</key>
@@ -29,8 +30,9 @@ with Reserved Font Name "Eeyek".
   <key>openTypeNameDesignerURL</key>
   <string>http://tabish.freeshell.org/eeyek/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 1999-2019 Pravabati Chingangbam and Tabish (tabishq@gmail.com)
+  <string>Original Meetei Mayek copyright (c) 1999-2019 Pravabati Chingangbam and Tabish (tabishq@gmail.com)
 with Reserved Font Name "Eeyek".
+Revisions and Latin glyphs copyright (c) 1997-2019 SIL International.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -141,6 +143,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
+    <integer>29</integer>
   </array>
   <key>openTypeOS2Selection</key>
   <array/>
@@ -176,11 +179,21 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <array>
     <integer>0</integer>
     <integer>1</integer>
+    <integer>2</integer>
+    <integer>3</integer>
     <integer>5</integer>
+    <integer>6</integer>
+    <integer>7</integer>
+    <integer>15</integer>
     <integer>31</integer>
+    <integer>33</integer>
+    <integer>35</integer>
+    <integer>38</integer>
     <integer>45</integer>
-    <integer>46</integer>
-    <integer>48</integer>
+    <integer>62</integer>
+    <integer>67</integer>
+    <integer>69</integer>
+    <integer>91</integer>
   </array>
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
