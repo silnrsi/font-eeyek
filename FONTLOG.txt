@@ -23,12 +23,17 @@ ChangeLog
 
 Acknowledgements
 
-If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D).
 
 N: Pravabati Chingangbam
-D: Designer
+D: Designer of original Eeyek glyphs
 
 N: Tabish
 E: tabishq@gmail.com
 W: http://tabish.freeshell.org/eeyek/
-D: Designer
+D: Designer of original Eeyek glyphs
+
+N: SIL font designers and engineers
+E: http://scripts.sil.org/support
+W: http://scripts.sil.org/
+D: Latin glyphs, revisions, and engineering support
