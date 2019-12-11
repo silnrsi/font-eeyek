@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Fix issues with UFOs exported from FontForge
+psffixffglifs -p checkfix=fix source/Eeyek-Regular.ufo
+
+./preflight

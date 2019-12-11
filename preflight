@@ -2,3 +2,10 @@
 
 # This normalization will also run check and fix routines
 psfnormalize -p checkfix=fix source/Eeyek-Regular.ufo
+
+# Apply glyph data to Regular UFO
+psfsetpsnames -i source/glyph_data.csv source/Eeyek-Regular.ufo
+psfsetglyphorder --header sort_final -i source/glyph_data.csv source/Eeyek-Regular.ufo
+
+# Create WOFF metadata file
+psfmakewoffmetadata -n Eeyek -i org.sil.fonts source/Eeyek-Regular.ufo # --populateufowoff --force
