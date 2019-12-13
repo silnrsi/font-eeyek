@@ -350,3 +350,17 @@ VS16,uniFE0F,347,FE0F
 zwnbsp,uniFEFF,348,FEFF
 ObjectReplChar,uniFFFC,349,FFFC
 ReplChar,uniFFFD,350,FFFD
+CombAcute,CombAcute,351,
+CombBreve,CombBreve,352,
+CombCaron,CombCaron,353,
+CombCedilla,CombCedilla,354,
+CombCircum,CombCircum,355,
+CombDiaer,CombDiaer,356,
+CombGrave,CombGrave,357,
+CombMacron,CombMacron,358,
+CombOgonek,CombOgonek,359,
+CombTildeOverlay.Lrg,CombTildeOverlay.Lrg,360,
+GrCapDelta,GrCapDelta,361,
+GrCapOmega,GrCapOmega,362,
+GrCapPi,GrCapPi,363,
+LtnCapEsh,LtnCapEsh,364,

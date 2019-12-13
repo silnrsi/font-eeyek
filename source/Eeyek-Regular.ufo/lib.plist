@@ -396,6 +396,20 @@
     <string>zwnbsp</string>
     <string>ObjectReplChar</string>
     <string>ReplChar</string>
+    <string>CombAcute</string>
+    <string>CombBreve</string>
+    <string>CombCaron</string>
+    <string>CombCedilla</string>
+    <string>CombCircum</string>
+    <string>CombDiaer</string>
+    <string>CombGrave</string>
+    <string>CombMacron</string>
+    <string>CombOgonek</string>
+    <string>CombTildeOverlay.Lrg</string>
+    <string>GrCapDelta</string>
+    <string>GrCapOmega</string>
+    <string>GrCapPi</string>
+    <string>LtnCapEsh</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
