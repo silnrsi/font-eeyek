@@ -13,7 +13,7 @@ DESC_SHORT = 'Font for Meetei Mayek script'
 
 # Get version and authorship information from Regular UFO (canonical metadata)
 getufoinfo('source/' + FAMILY + '-Regular' + '.ufo')
-BUILDLABEL = 'alpha1'
+# BUILDLABEL = 'alpha1'
 
 # Set up the FTML tests
 ftmlTest('tools/ftml-list.xsl')

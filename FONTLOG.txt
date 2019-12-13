@@ -11,7 +11,7 @@ Special permission has been granted to SIL to use the Reserved Font Name "Eeyek"
 
 ChangeLog
 
-11 Dec 2019 (SIL WSTech Team) Eeyek version 2.000
+13 Dec 2019 (SIL WSTech Team) Eeyek version 2.000
 - Rebuilt from new workflow
 - Joining underline glyph changed to underline previous and following glyphs
 - Question mark (U+003F) reencoded as U+AAF1 MEETEI MAYEK AHANG KHUDAM, and replaced with Latin question mark
