@@ -1,0 +1,33 @@
+image: "ubuntu:bionic"
+
+build:
+  stage: build
+  before_script:
+    - apt-get update -q -y
+    - apt-get install -q -y python3-software-properties libterm-readline-gnu-perl
+    - add-apt-repository -y ppa:silnrsi/smith-py3
+    # - add-apt-repository -y ppa:jonathonf/texlive-2019
+    # - add-apt-repository -y ppa:git-core/ppa
+    - apt-get update -q -y
+    - apt-get install libjson-perl libtext-csv-perl libharfbuzz-bin -y
+    - apt-get install smith-font -y --no-install-recommends
+
+  script:
+    - smith configure
+    - smith build
+    - smith alltests
+    # - smith pyfontaine
+    - smith fontlint
+    - smith zip
+    # - smith tarball
+    # - smith release
+
+  artifacts:
+    name: "${CI_PROJECT_NAME}-${CI_COMMIT_REF_NAME}${CI_COMMIT_SHA:0:8}-build${CI_JOB_ID}"
+    paths:
+    - results/releases/*
+    - results/*.html
+    - results/*.pdf
+    - results/*.txt
+    - results/*err*
+    - results/tests/*
