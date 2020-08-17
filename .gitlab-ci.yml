@@ -4,7 +4,7 @@ build:
   stage: build
   before_script:
     - apt-get update -q -y
-    - apt-get install -q -y python3-software-properties libterm-readline-gnu-perl
+    - apt-get install -q -y software-properties-common libterm-readline-gnu-perl
     - add-apt-repository -y ppa:silnrsi/smith-py3
     # - add-apt-repository -y ppa:jonathonf/texlive-2019
     # - add-apt-repository -y ppa:git-core/ppa
@@ -17,7 +17,7 @@ build:
     - smith build
     - smith alltests
     # - smith pyfontaine
-    - smith fontlint
+    # - smith fontlint
     - smith zip
     # - smith tarball
     # - smith release
