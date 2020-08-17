@@ -3,9 +3,9 @@ image: "ubuntu:bionic"
 build:
   stage: build
   before_script:
+    - export DEBIAN_FRONTEND=noninteractive
     - apt-get update -q -y
-    - apt-get install -q -y software-properties-common libterm-readline-gnu-perl
-    - timedatectl set-timezone UTC
+    - apt-get install -q -y software-properties-common # libterm-readline-gnu-perl
     - add-apt-repository -y ppa:silnrsi/smith-py3
     # - add-apt-repository -y ppa:jonathonf/texlive-2019
     # - add-apt-repository -y ppa:git-core/ppa
