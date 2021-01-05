@@ -4,7 +4,7 @@ Eeyek is a font for the Meetei Mayek (Meitei Mayek) script.
 
 The original Meetei Mayek glyphs are copyright (c) 1999-2019 Pravabati Chingangbam and Tabish (tabishq@gmail.com) with Reserved Font Name "Eeyek".
 
-Revisions and Latin glyphs are copyright (c) 1997-2019 SIL International.
+Revisions and Latin glyphs are copyright (c) 1997-2021 SIL International.
 
 The font is released under under the [SIL Open Font License (scripts.sil.org/OFL)](http://scripts.sil.org/OFL).
 
