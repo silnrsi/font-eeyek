@@ -16,7 +16,7 @@ Revisions and Latin glyphs copyright (c) 1997-2021 SIL International.
   <key>familyName</key>
   <string>Eeyek</string>
   <key>openTypeHeadCreated</key>
-  <string>2021/06/25 06:49:40</string>
+  <string>2021/06/25 06:56:31</string>
   <key>openTypeHheaAscender</key>
   <integer>1815</integer>
   <key>openTypeHheaDescender</key>
@@ -145,8 +145,6 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <integer>0</integer>
     <integer>29</integer>
   </array>
-  <key>openTypeOS2Selection</key>
-  <array/>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>530</integer>
   <key>openTypeOS2StrikeoutSize</key>
