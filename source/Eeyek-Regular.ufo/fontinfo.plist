@@ -16,7 +16,7 @@ Revisions and Latin glyphs copyright (c) 1997-2021 SIL International.
   <key>familyName</key>
   <string>Eeyek</string>
   <key>openTypeHeadCreated</key>
-  <string>2021/01/05 10:49:56</string>
+  <string>2021/06/25 06:49:40</string>
   <key>openTypeHheaAscender</key>
   <integer>1815</integer>
   <key>openTypeHheaDescender</key>
@@ -139,7 +139,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Eeyek Regular: 2021</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.000</string>
+  <string>Version 2.001</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -230,7 +230,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>xHeight</key>
   <integer>500</integer>
 </dict>
