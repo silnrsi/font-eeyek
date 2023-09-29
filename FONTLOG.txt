@@ -34,6 +34,6 @@ W: http://tabish.freeshell.org/eeyek/
 D: Designer of original Eeyek glyphs
 
 N: SIL font designers and engineers
-E: http://scripts.sil.org/support
-W: http://scripts.sil.org/
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Latin glyphs, revisions, and engineering support

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
   <uniqueid id="org.sil.fonts.Eeyek.2.001" />
-  <vendor name="SIL International" url="http://scripts.sil.org" />
+  <vendor name="SIL International" url="https://software.sil.org/wstech/" />
   <credits>
     <credit
       name="Pravabati Chingangbam"
@@ -32,7 +32,7 @@
       - First OFL release based on Eeyek Unicode font
     </text>
   </description>
-  <license url="http://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
+  <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
     <text lang="en">
       Original Meetei Mayek copyright (c) 1999-2019 Pravabati Chingangbam and Tabish (tabishq@gmail.com)
       with Reserved Font Name "Eeyek".
@@ -40,7 +40,7 @@
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1.
       This license is copied below, and is also available with a FAQ at:
-      http://scripts.sil.org/OFL
+      https://scripts.sil.org/OFL
       
       
       -----------------------------------------------------------

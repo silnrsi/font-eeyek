@@ -6,7 +6,7 @@ The original Meetei Mayek glyphs are copyright (c) 1999-2019 Pravabati Chingangb
 
 Revisions and Latin glyphs are copyright (c) 1997-2021 SIL International.
 
-The font is released under under the [SIL Open Font License (scripts.sil.org/OFL)](http://scripts.sil.org/OFL).
+The font is released under under the [SIL Open Font License (scripts.sil.org/OFL)](https://scripts.sil.org/OFL).
 
 For details - including any Reserved Font Names - see [OFL.txt](OFL.txt).
 

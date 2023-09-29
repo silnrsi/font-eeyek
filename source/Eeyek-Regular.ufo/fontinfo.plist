@@ -16,7 +16,7 @@ Revisions and Latin glyphs copyright (c) 1997-2021 SIL International.
   <key>familyName</key>
   <string>Eeyek</string>
   <key>openTypeHeadCreated</key>
-  <string>2021/06/25 06:56:31</string>
+  <string>2023/09/28 13:36:11</string>
   <key>openTypeHheaAscender</key>
   <integer>1815</integer>
   <key>openTypeHheaDescender</key>
@@ -36,7 +36,7 @@ Revisions and Latin glyphs copyright (c) 1997-2021 SIL International.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
@@ -127,23 +127,27 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 </string>
   <key>openTypeNameLicenseURL</key>
-  <string>http://scripts.sil.org/ofl</string>
+  <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
   <string>SIL International</string>
   <key>openTypeNameManufacturerURL</key>
-  <string>http://scripts.sil.org</string>
+  <string>https://software.sil.org/wstech/</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>Eeyek</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Eeyek Regular: 2021</string>
+  <string>SIL International: Eeyek Regular: 2023</string>
   <key>openTypeNameVersion</key>
   <string>Version 2.001</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
     <integer>29</integer>
+  </array>
+  <key>openTypeOS2Selection</key>
+  <array>
+    <integer>7</integer>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>530</integer>

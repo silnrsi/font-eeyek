@@ -25,7 +25,7 @@ for dspace in ('',):
             cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', [source + '${DS:FILENAME_BASE}.ufo']),
         ),
         version = VERSION,
-        woff = woff('qwoff/${DS:FILENAME_BASE}',
+        woff = woff('web/${DS:FILENAME_BASE}',
             metadata = '../source/${DS:FAMILYNAME_NOSPC}-WOFF-metadata.xml'),
         # typetuner='source/typetuner/feat_all.xml',
         script = ['DFLT'],
